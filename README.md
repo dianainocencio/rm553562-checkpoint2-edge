@@ -45,3 +45,8 @@ Antes de começar:
 🎉 Conclusão
 
 Pronto para começar? Pegue seus componentes e mãos à obra! Se tiver dúvidas ou precisar de ajuda, não hesite em perguntar. Divirta-se construindo e aprendendo! 😄
+
+Link do circuito no Wokwi: https://wokwi.com/projects/379160366557796353
+
+![image](https://github.com/dianainocencio/rm553562-checkpoint2-edge/assets/125329245/c8953616-6d17-46ec-8525-39b3947524d8)
+
